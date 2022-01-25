@@ -172,3 +172,4 @@ INFO[0004] Successfully downloaded error/postgresql.log.2021-10-21-18
 
 ```
 
+### Thank you! [Jonathan Stacks](https://github.com/jonstacks/aws)
