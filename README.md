@@ -1,6 +1,16 @@
 # aws-rds-logs
 
 ###
+What is needed to run this?
+awscli and jq
+
+```BASH
+On MacOS:
+brew install jq
+brew install awscli
+```
+
+
 Usage
 ```BASH
 Create a go dir in your home directory then use go get to install the aws-rds-logs package.
