@@ -1,13 +1,12 @@
 # aws-rds-logs
 
-##
 What is in the cmd directory?
 
 ```BASH
 download-logs
 sync-rds-logs
 
-Be sure to check the README.md in each directory for more information.
+Be sure to check the README.md in each of these directories for more information.
 ```
 
 ###
