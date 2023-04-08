@@ -1,5 +1,15 @@
 # aws-rds-logs
 
+##
+What is in the cmd directory?
+
+```BASH
+download-logs
+sync-rds-logs
+
+Be sure to check the README.md in each directory for more information.
+```
+
 ###
 What is needed to run this?
 awscli and jq
@@ -17,7 +27,11 @@ Create a go dir in your home directory then use go get to install the aws-rds-lo
 
 mkdir -p  go/{src,bin,pkg}
 
+For older versions of Golang:
 go get -v -u github.com/ChaosHour/aws-rds-logs
+
+For newer versions of Golang:
+go install github.com/ChaosHour/aws-rds-logs@latest
 ```
 
 
